@@ -23,14 +23,10 @@ function tribonacci(signature,n){
   }
   
   let newArray = signature;
-  let first = signature.reduce((acc, current) => {
-    return acc + current
-  }, 0);
-  newArray.push(first);
   
   while(newArray.length < n) {
-    let secondy = newArray.slice(-3).reduce((acc, current) => (acc + current), 0);
-    newArray.push(secondy);
+    let num = newArray.slice(-3).reduce((acc, current) => (acc + current), 0);
+    newArray.push(num);
   }
   return newArray;
 }
