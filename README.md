@@ -1,5 +1,5 @@
 # CodeWars - Kata Solutions
-### This is the GitHub repository where I save copies of the katas I've completed on
+:rocket: This is the GitHub repository where I save copies of the katas I've completed on
 
 [www.codewars.com](https://www.codewars.com/)
 
