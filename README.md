@@ -1,7 +1,7 @@
 # CodeWars - Kata Solutions
-:rocket: This is the GitHub repository where I save copies of the katas I've completed on
-
-[www.codewars.com](https://www.codewars.com/)
+### :rocket: This is the GitHub repository where I save copies of the katas I've completed on
+ 
+Let's pratice code! [www.codewars.com](https://www.codewars.com/)
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/luanperosa/badges/large)
 
