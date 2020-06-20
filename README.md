@@ -1,7 +1,7 @@
 # CodeWars - Kata Solutions
 #### This is the GitHub repository where I save copies of the katas I've completed on
  
-Let's pratice code! [www.codewars.com](https://www.codewars.com/ target="_blank")
+Let's pratice code! [www.codewars.com](https://www.codewars.com/ "target="_blank"")
 ### :rocket: My current level and score
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/luanperosa/badges/large target="_blank")
 
