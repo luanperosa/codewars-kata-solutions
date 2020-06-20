@@ -3,7 +3,7 @@
  
 Let's pratice code! [www.codewars.com](https://www.codewars.com/)
 
-### :rocket: My points
+### :rocket: My current level and score
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/luanperosa/badges/large)
 
 ![codewars](https://user-images.githubusercontent.com/50602816/85193044-791f7080-b29b-11ea-99e5-d4766022b746.gif)
