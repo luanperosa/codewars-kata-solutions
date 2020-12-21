@@ -10,7 +10,7 @@
 
 // DNAStrand ("GTAT") // return "CATA" 
 
-function dnaStrand(dnaString){
+function DNAStrand(dnaString){
   let result = '';
   for(let i = 0; i < dnaString.length; i++){
       if(dnaString[i] == 'A') {
@@ -27,6 +27,6 @@ function dnaStrand(dnaString){
   return result;
 }
 
-console.log(dnaStrand('AATGC'));
-console.log(dnaStrand('GTC'));
-console.log(dnaStrand('CAA'));
+console.log(DNAStrand('AATGC'));
+console.log(DNAStrand('GTC'));
+console.log(DNAStrand('CAA'));
